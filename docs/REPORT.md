@@ -57,13 +57,16 @@ _300–500 kata. Ceritakan:_
 
 ## 4. Kontribusi Tiap Anggota
 
-| Anggota | Kontribusi Konkret | % Effort |
+| Anggota | Kontribusi konkret | % Effort |
 |---|---|---|
-| _Nama 1_ | _isi_ | _isi_ |
-| _Nama 2_ | _isi_ | _isi_ |
-| _Nama 3_ | _isi_ | _isi_ |
-| _Nama 4_ | _isi_ | _isi_ |
-
+|  Dionisius Rafael  |  isi | 14.3% |
+|  Nathasia Oktarina Riyani  |  isi | 14.3% |
+|  Caryn Caroline  |  isi | 14.3% |
+|  Nadia Aurelia Clarissa | Laporan | 14.3% |
+|  Edward Soeyanto | isi | 14.3% |
+|  Aliya Cahyanti Wijaya | isi | 14.3% |
+|  Regina Hillary | isi | 14.3% |
+|   |  | 100% |
 _Total harus 100%._
 
 ---
