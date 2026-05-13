@@ -4,14 +4,15 @@
 
 ## Identitas Kelompok
 
-- **Nama Kelompok:** _isi di sini_
+- **Nama Kelompok:** _kelompok_tiga_
 - **Anggota:**
-  1. _Nama — NIM — varian yang dikerjakan_
-  2. _Nama — NIM — varian yang dikerjakan_
-  3. _Nama — NIM — varian yang dikerjakan_
-  4. _Nama — NIM — varian yang dikerjakan_
-
----
+  1. _Dionisius Rafael — 32230013 — varian yang dikerjakan_
+  2. _Nathasia Oktarina Riyani — 32230025 — varian yang dikerjakan_
+  3. _Caryn Caroline — 32230042 — varian yang dikerjakan_
+  4. _Nadia Aurelia Clarissa — 32230052 — Laporan_
+  5. _Edward Soeyanto - 32230060 - varian_
+  6. _Aliya Cahyanti Wijaya - 32230063 - varian_
+  7. _Regina Hillary - 32230070 - varian_
 
 ## 1. Ringkasan Hasil Eksperimen
 
